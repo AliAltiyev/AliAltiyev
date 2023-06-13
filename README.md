@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://tenor.com/ru/view/scaler-create-impact-dog-coding-programming-gif-25011983"  />
+  <img height="400" src="https://www.mindinventory.com/blog/wp-content/uploads/2022/10/flutter-3.png"  />
 </div>
 
 ###
@@ -148,8 +148,9 @@
 ###
 
 <div align="center">
-  <img src="?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song" 
-       ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31q5ewc7rzhtlzn5pgra4isxc36e)/>
+  <a href="https://open.spotify.com/user/31q5ewc7rzhtlzn5pgra4isxc36e">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=8&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
