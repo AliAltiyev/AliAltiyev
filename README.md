@@ -148,7 +148,8 @@
 ###
 
 <div align="center">
-  <img src="?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
+  <img src="?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song" 
+       ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31q5ewc7rzhtlzn5pgra4isxc36e)/>
 </div>
 
 ###
