@@ -155,5 +155,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=8&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAltiyev)](https://github.com/anuraghazra/github-readme-stats)
-###
+
