@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"  />
+  <img height="400" src="https://tenor.com/ru/view/scaler-create-impact-dog-coding-programming-gif-25011983"  />
 </div>
 
 ###
