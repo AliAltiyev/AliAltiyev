@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5"  />
+  <img height="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"  />
 </div>
 
 ###
