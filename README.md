@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">I am a Flutter developer from Turkmenistan with experience in building cross-platform mobile apps. I am passionate about creating beautiful and user-friendly interfaces, and I am always looking for new ways to improve my skills.<br><br>In my spare time, I enjoy playing video games, reading, and spending time with my family.<br><br>- 🔭 I’m working as Flutter developer<br>- 📚 I'm currently learning  deeply flutter development<br>- ⚡ In my free time I  prefer  to write code)</h2>
+<h1 align="left">I am a Flutter developer from Turkmenistan with experience in building cross-platform mobile apps. I am passionate about creating beautiful and user-friendly interfaces, and I am always looking for new ways to improve my skills.<br><br>In my spare time, I enjoy playing video games, reading, and spending time with my family.<br><br>- 🔭 I’m working as Flutter developer<br>- 📚 I'm currently learning  deeply flutter development<br>- ⚡ In my free time I  prefer  to write code)</h2>
 
 ###
 
