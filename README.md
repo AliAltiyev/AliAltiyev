@@ -100,6 +100,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliAltiyev&amp;theme=tokyonight&amp;border_radius=6&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a></p>
 
 ###
 
